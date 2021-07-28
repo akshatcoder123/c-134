@@ -1,0 +1,12 @@
+
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+}
+h3{
+ color:red ;
+}
+canvas{
+    background-color:rgb(255, 0, 0);
+border:10px solid blue ;
+}
